@@ -7,6 +7,9 @@ Features:
 - Small and Easy to solder.
 
 Credits:
+
 https://www.fiverr.com/vortex968 (Commissioned)
 
-<img src="./Top-Veiw.png" alt="Top View of Board" width="500px"> <img src="./Bottom-View.png" alt="Bottom View of Board" width="500px">
+| Top View | Bottom  View |
+| --- | ---|
+| <img src="./Top-Veiw.png" alt="Top View of Board" width="500px"> | <img src="./Bottom-View.png" alt="Bottom View of Board" width="500px"></div> |
