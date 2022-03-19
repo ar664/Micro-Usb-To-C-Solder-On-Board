@@ -6,6 +6,7 @@ Features:
 - Usb C to Usb C compatible
 - Small and Easy to solder.
 
-![Top View of Board](./Top-Veiw.png)
+Credits:
+https://www.fiverr.com/vortex968 (Commissioned)
 
-![Bottom View of Board](./Bottom-View.png)
+<img src="./Top-Veiw.png" alt="Top View of Board" width="500px"> <img src="./Bottom-View.png" alt="Bottom View of Board" width="500px">
